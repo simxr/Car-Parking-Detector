@@ -25,7 +25,7 @@ Once you have cloned the repository and completed any necessary setup steps, you
 
 ```bash 
 python main.py
-
+```
 
 
 
