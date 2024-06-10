@@ -17,7 +17,8 @@ Detects Occupied and Free Spaces from a video footage providing valuable insight
 To get started with this project, you'll need to clone the repository to your local machine. You can do this using the following command in your terminal or command prompt:
 
 ```bash
-git clone https://github.com/simxr/Car-Parking-Detector.git 
+git clone https://github.com/simxr/Car-Parking-Detector.git
+```
 
 ### Running the Project
 Once you have cloned the repository and completed any necessary setup steps, you can run the project using the following command:
